@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Técnico em deenvolvimento de sistemas</p>
+<p align="left">Técnico em desenvolvimento de sistemas</p>
 
 ###
 
