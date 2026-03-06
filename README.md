@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Técnico em desenvolvimento de sistemas</p>
+<p align="left">Técnico em desenvolvimento de sistemas pelo SENAI</p>
 
 ###
 
-<p align="left">💻 Dev • 🎬 Editor de vídeo • 🧊 3D artist<br><br>🚀 Criar, aprender e construir projetos digitais<br><br>🧠 Misturo códigos para criar coisas legais online ⚡</p>
+<p align="left">💻 Dev • 🎬 Editor de vídeo • 🧊 3D artist</p>
 
 ###
 
