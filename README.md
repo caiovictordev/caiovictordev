@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">Técnico em desenvolvimento de sistemas pelo SENAI</p>
+<p align="left">🧑‍💻 Sobre mim
+
+Tenho 20 anos e sou apaixonado por tecnologia e criação digital. Gosto de transformar ideias em projetos, principalmente através da programação, onde estou sempre buscando aprender novas ferramentas, linguagens e formas de desenvolver soluções.
+
+Além do desenvolvimento, também atuo na área de gravação e edição de vídeos, explorando o lado criativo da produção audiovisual. Outro campo que me interessa bastante é a modelagem 3D, onde posso unir criatividade e tecnologia para criar objetos, cenários e projetos digitais.
+
+Sou uma pessoa curiosa, que gosta de aprender constantemente, experimentar novas tecnologias e evoluir tanto no lado técnico quanto criativo.</p>
 
 ###
 
