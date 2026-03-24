@@ -2,15 +2,11 @@
   <img style="width:100%" 
   src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:00F0FF,25:7B00FF,50:FF00F7,75:FF7B00,100:00FF85&fontColor=FFFFFF" />
 </div>
-
 <h1 align="center">Fala aí 👋</h1>
-
 <h2 align="center">Caio Victor | DEV</h2>
-
 <p align="center">
 💻 Desenvolvedor • 🎬 Editor de Vídeo • 🧊 Artista 3D
 </p>
-
 ---
 
 ### 🚀 Sobre mim
