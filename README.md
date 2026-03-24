@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h1 align="left">Olá!</h1>
 
 ###
@@ -6,17 +12,11 @@
 
 ###
 
-<p align="left"🧑‍💻 Sobre mim
-
-Tenho 20 anos e sou apaixonado por tecnologia e criação digital. Gosto de transformar ideias em projetos, principalmente através da programação, onde estou sempre buscando aprender novas ferramentas, linguagens e formas de desenvolver soluções.
-
-Além do desenvolvimento, também atuo na área de gravação e edição de vídeos, explorando o lado criativo da produção audiovisual. Outro campo que me interessa bastante é a modelagem 3D, onde posso unir criatividade e tecnologia para criar objetos, cenários e projetos digitais.
-
-Sou uma pessoa curiosa, que gosta de aprender constantemente, experimentar novas tecnologias e evoluir tanto no lado técnico quanto criativo.</p>
+<p align="left">Técnico em deenvolvimento de sistemas</p>
 
 ###
 
-<p align="left">💻 Dev • 🎬 Editor de vídeo • 🧊 3D artist</p>
+<p align="left">💻 Dev • 🎬 Editor de vídeo • 🧊 3D artist<br><br>🚀 Criar, aprender e construir projetos digitais<br><br>🧠 Misturo códigos para criar coisas legais online ⚡</p>
 
 ###
 
@@ -42,6 +42,12 @@ Sou uma pessoa curiosa, que gosta de aprender constantemente, experimentar novas
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
