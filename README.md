@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Sobre mim
+<p align="left"🧑‍💻 Sobre mim
 
 Tenho 20 anos e sou apaixonado por tecnologia e criação digital. Gosto de transformar ideias em projetos, principalmente através da programação, onde estou sempre buscando aprender novas ferramentas, linguagens e formas de desenvolver soluções.
 
