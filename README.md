@@ -1,53 +1,77 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="width:100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:00F0FF,25:7B00FF,50:FF00F7,75:FF7B00,100:00FF85&fontColor=FFFFFF" />
 </div>
 
-###
-
-<h1 align="left">Olá!</h1>
-
-###
+<h1 align="center">Fala aí 👋</h1>
 
 <h2 align="center">Caio Victor | DEV</h2>
 
-###
+<p align="center">
+💻 Desenvolvedor • 🎬 Editor de Vídeo • 🧊 Artista 3D
+</p>
 
-<p align="left">Técnico em deenvolvimento de sistemas</p>
+---
 
-###
+### 🚀 Sobre mim
 
-<p align="left">💻 Dev • 🎬 Editor de vídeo • 🧊 3D artist<br><br>🚀 Criar, aprender e construir projetos digitais<br><br>🧠 Misturo códigos para criar coisas legais online ⚡</p>
+<p>
+Sou técnico em desenvolvimento de sistemas e curto criar coisas digitais que misturam código, criatividade e visual.
+</p>
 
-###
+<p>
+🧠 Transformo ideias em projetos reais <br>
+🎯 Focado em evolução constante <br>
+⚡ Sempre testando coisas novas
+</p>
 
-<h2 align="left">Meu cérebro está condicionada a isso...</h2>
+---
 
-###
+### 🛠️ Tecnologias que uso
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/angular/DD0031" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+<img src="https://skillicons.dev/icons?i=pr" height="40"/>
+<img src="https://skillicons.dev/icons?i=ae" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/>
+
 </div>
 
-###
+---
+
+### 🧩 O que eu curto fazer
+
+- 💻 Desenvolver sistemas e interfaces
+- 🎬 Editar vídeos com identidade forte
+- 🧊 Criar cenas e objetos em 3D
+- 🚀 Construir projetos do zero
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+### 🧠 Frase
+
+<p align="center">
+"Não é só código. É criação."
+</p>
+
+---
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="width:100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F0FF,25:7B00FF,50:FF00F7,75:FF7B00,100:00FF85&fontColor=FFFFFF" />
 </div>
-
-###
