@@ -52,7 +52,6 @@ Sou técnico em desenvolvimento de sistemas e curto criar coisas digitais que mi
 ### 📊 GitHub Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caiovictordev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovictordev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
 </div>
 
