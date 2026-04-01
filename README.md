@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí 👋</h1>
+<h1 align="center" padding: 10px>Fala aí 👋</h1>
 <h2 align="center">Caio Victor | DEV</h2>
 <p align="center">
 💻 Desenvolvedor • 🎬 Editor de Vídeo • 🧊 Artista 3D
