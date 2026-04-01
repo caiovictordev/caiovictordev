@@ -1,8 +1,7 @@
-<h1 align="center" padding: 10px>Fala aí 👋</h1>
-<h2 align="center">Caio Victor | DEV</h2>
-<p align="center">
+<h1 align="center">Caio Victor | DEV</h1>
+<h2 align="center">
 💻 Desenvolvedor • 🎬 Editor de Vídeo • 🧊 Artista 3D
-</p>
+</h2>
 
 🚀 Sobre mim
 
