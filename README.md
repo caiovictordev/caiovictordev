@@ -39,3 +39,11 @@ Sou técnico em desenvolvimento de sistemas e curto criar coisas digitais que mi
 - 💻 Desenvolver sistemas e interfaces
 - 🎬 Editar vídeos com identidade forte
 - 🧊 Criar cenas e objetos em 3D
+
+---
+Redes Sociais
+<br>
+<br>
+<a href="https://www.instagram.com/cato_review/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1280px-Instagram_logo_2022.svg.png" height="40">
+</a>
