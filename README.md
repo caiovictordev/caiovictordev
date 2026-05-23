@@ -23,11 +23,12 @@ Sou técnico em desenvolvimento de sistemas e curto criar coisas digitais que mi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.simpleicons.org/angular/DD0031" height="40"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/VSCode-Dark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bootstrap.svg" height="40"/>
 <img src="https://skillicons.dev/icons?i=pr" height="40"/>
 <img src="https://skillicons.dev/icons?i=ae" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40"/>
 
 </div>
