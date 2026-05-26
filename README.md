@@ -6,7 +6,9 @@
 🚀 Sobre mim
 
 <p>
-Sou técnico em desenvolvimento de sistemas e curto criar coisas digitais que misturam código, criatividade e visual.
+Técnico em programação de Jogos Digitais - IFMA
+(Cursando) Técnico em desenvolvimento de Sistemas - SENAI 
+Social Media FIEMA, SESI, SENAI e entidades vinculadas
 </p>
 
 <p>
