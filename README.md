@@ -6,8 +6,8 @@
 🚀 Sobre mim
 
 <p>
-Técnico em programação de Jogos Digitais - IFMA
-(Cursando) Técnico em desenvolvimento de Sistemas - SENAI 
+Técnico em programação de Jogos Digitais - IFMA <br>
+(Cursando) Técnico em desenvolvimento de Sistemas - SENAI  <br>
 Social Media FIEMA, SESI, SENAI e entidades vinculadas
 </p>
 
