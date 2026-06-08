@@ -8,6 +8,7 @@
 <p>
 Técnico em programação de Jogos Digitais - IFMA <br>
 (Cursando) Técnico em desenvolvimento de Sistemas - SENAI  <br>
+Embaixador Jr. SENAI HUB <br>
 Social Media FIEMA, SESI, SENAI e entidades vinculadas
 </p>
 
